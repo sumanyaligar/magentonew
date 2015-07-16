@@ -1,0 +1,34 @@
+<!-- TopBar -->
+<div id="topbar">
+<div class="container">
+<div class="row">
+...
+</div>
+</div>
+</div>
+<!--
+<div
+<div
+<div
+Header -->
+id="header">
+class="container">
+class="row">
+</div>
+</div>
+</div>
+<!-- Navigation -->
+<nav>
+. . .
+</nav>
+
+<!-- Top Bar -->
+<div id="topbar">
+<div class="container">
+<div class="row">
+<div class="col-md-8">
+<?php echo $this->getChildHtml('topbar_cmslinks') ?>
+</div>
+</div>
+</div>
+</div>

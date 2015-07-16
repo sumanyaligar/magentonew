@@ -1,0 +1,5 @@
+<button	type="submit"	title="<?php	echo	$this->__('Search')	?>"	
+class="button">
+<?php	echo	$this->__('Search')	?>
+
+</button>
